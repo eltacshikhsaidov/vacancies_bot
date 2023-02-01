@@ -24,7 +24,7 @@ public class VacancyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "token that you generated";
+        return "6025974305:AAHOkRFcTppbcEtJPd1ZQj3SOtmEeHXV0Uo";
     }
 
     @Override
